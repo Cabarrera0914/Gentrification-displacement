@@ -1,21 +1,27 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
   },
+  "users": [],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
-    "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "github_org": "Cabarrera0914",
+    "is_private": false,
+    "title": "Displaced",
+    "description": "In such a diversve and culturally rich city like Houston, it is almost impossible to not attract an influx of people moving in. Although with this causes blah blah blah. I got to change this",
+    "language": "en",
+    "slug": "Gentrification-displacement",
+    "creator": "Cabarrera0914",
+    "authors": "Christian Barrera",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [],
+      "tags": []
+    },
+    "created_at": "2025-04-24T14:59:07.767Z",
+    "updated_at": "2025-04-24T14:59:07.767Z"
   }
 }
